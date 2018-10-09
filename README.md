@@ -1,6 +1,6 @@
 ## Edge Machine Learning
 
-This repository provides code for machine learning algorithms for edge devices.
+This repository provides code for machine learning algorithms for edge devices, mostly modelled to predeict energy patterns.
 
 Machine learning models for edge devices need to have a small footprint in terms of storage, prediction latency and energy. One example of a ubiquitous real-world application where such models are desirable is resource-scarce devices and sensors in the Internet of Things (IoT) setting. Making real-time predictions locally on IoT devices without connecting to the cloud requires models that fit in a few kilobytes.
 
